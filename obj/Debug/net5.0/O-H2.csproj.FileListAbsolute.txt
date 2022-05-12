@@ -1,0 +1,16 @@
+C:\Users\drit0046\VSCode\O-H2\bin\Debug\net5.0\O-H2.exe
+C:\Users\drit0046\VSCode\O-H2\bin\Debug\net5.0\O-H2.deps.json
+C:\Users\drit0046\VSCode\O-H2\bin\Debug\net5.0\O-H2.runtimeconfig.json
+C:\Users\drit0046\VSCode\O-H2\bin\Debug\net5.0\O-H2.runtimeconfig.dev.json
+C:\Users\drit0046\VSCode\O-H2\bin\Debug\net5.0\O-H2.dll
+C:\Users\drit0046\VSCode\O-H2\bin\Debug\net5.0\O-H2.pdb
+C:\Users\drit0046\VSCode\O-H2\obj\Debug\net5.0\O-H2.csproj.AssemblyReference.cache
+C:\Users\drit0046\VSCode\O-H2\obj\Debug\net5.0\O-H2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drit0046\VSCode\O-H2\obj\Debug\net5.0\O-H2.AssemblyInfoInputs.cache
+C:\Users\drit0046\VSCode\O-H2\obj\Debug\net5.0\O-H2.AssemblyInfo.cs
+C:\Users\drit0046\VSCode\O-H2\obj\Debug\net5.0\O-H2.csproj.CoreCompileInputs.cache
+C:\Users\drit0046\VSCode\O-H2\obj\Debug\net5.0\O-H2.dll
+C:\Users\drit0046\VSCode\O-H2\obj\Debug\net5.0\refint\O-H2.dll
+C:\Users\drit0046\VSCode\O-H2\obj\Debug\net5.0\O-H2.pdb
+C:\Users\drit0046\VSCode\O-H2\obj\Debug\net5.0\O-H2.genruntimeconfig.cache
+C:\Users\drit0046\VSCode\O-H2\obj\Debug\net5.0\ref\O-H2.dll
