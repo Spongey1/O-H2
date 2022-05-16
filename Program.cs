@@ -7,10 +7,10 @@ namespace O_H2
         static void Main(string[] args)
         {
             Random rnd = new Random();
-            LiquidManager cm = new LiquidManager();
+            IngredientManager cm = new IngredientManager();
 
-            cm.CoffeeSimulation(new Liquid("Coffee", rnd.Next(1, 5)));
-            cm.CoffeeSimulation(new Liquid("Tea", rnd.Next(1, 5)));
+            cm.Simulation(new Ingredients("Coffee", rnd.Next(1, 5), "Coffee Bean", 9));
+            cm.Simulation(new Ingredients("Tea", rnd.Next(1, 5), "Tea bag", 5));
         }
     }
 }
