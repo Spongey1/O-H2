@@ -13,15 +13,5 @@ namespace O_H2
         {
             Components = components;
         }
-
-        public void TurnOn()
-        {
-            Console.WriteLine("Machine is on");
-        }
-
-        public void TurnOff()
-        {
-            Console.WriteLine("Machine is off");
-        }
     }
 }
