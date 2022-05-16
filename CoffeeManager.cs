@@ -14,10 +14,12 @@ namespace O_H2
         {
             try
             {
+                // Check if the Coffee Machine is ready
                 if (FilterOn = true && isUsed == false)
                 {
                     WriteSimulation(l);
 
+                    // Random to randomly choose if the "person" remembers to remove the filter or not
                     if (rnd.Next(0, 2) == 0)
                     {
                         Console.WriteLine("Filter removed");
