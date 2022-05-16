@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace O_H2
 { // Handles the CoffeeMachine Simulation
-    public class CoffeeManager : IFilter
+    public class LiquidManager : IFilter
     {
         Random rnd = new Random();
         Machine m = new Machine(new List<string> { "Reservoir", "Tube", "Faucet", "Valve", "Power Cord" });

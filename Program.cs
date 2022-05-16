@@ -7,7 +7,7 @@ namespace O_H2
         static void Main(string[] args)
         {
             Random rnd = new Random();
-            CoffeeManager cm = new CoffeeManager();
+            LiquidManager cm = new LiquidManager();
 
             cm.CoffeeSimulation(new Liquid("Coffee", rnd.Next(1, 5)));
             cm.CoffeeSimulation(new Liquid("Tea", rnd.Next(1, 5)));
